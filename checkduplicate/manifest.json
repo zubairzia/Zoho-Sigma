@@ -1,0 +1,8 @@
+{
+  "name": "Lead Duplicate Checker",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "service": "CRM",
+  "type": "widget",
+  "index": "widget.html"
+}
